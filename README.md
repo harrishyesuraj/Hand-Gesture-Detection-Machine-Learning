@@ -15,15 +15,3 @@
 
 ---
 
-## Features
-- Binary classification (Spam / Not Spam)
-- Neural network-based text classification
-- Model performance evaluation
-
----
-
-## Learning Outcomes
-- Understanding of FNN architecture
-- Text data preprocessing
-- Practical experience with classification models
-- Binary classification: Spam / Not Spam
