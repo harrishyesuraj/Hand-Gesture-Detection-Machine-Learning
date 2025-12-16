@@ -2,7 +2,7 @@
 
 ### 1. Real-Time Hand Gesture Detection
 🎥 Demo Video (GitHub Release):  
-[Click Here]([your-github-release-video-link](https://github.com/harrishyesuraj/Hand-Gesture-Detection-Machine-Learning/blob/main/hand-gesture-ml-project/realtime_gesture_detection/Recording%202025-07-14%20231622.mp4))
+[Click Here](https://github.com/harrishyesuraj/Hand-Gesture-Detection-Machine-Learning/blob/main/hand-gesture-ml-project/realtime_gesture_detection/Recording%202025-07-14%20231622.mp4)
 
 ### 2. Hand Gesture Recognition (Image-Based)
 📸 Demo Output Screenshots:  
