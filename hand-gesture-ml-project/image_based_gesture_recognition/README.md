@@ -37,4 +37,5 @@ Google Colab.
 ---
 
 ## Output
-📸 Demo output screenshots and prediction results are available in:
+📸 Demo output screenshots and prediction results are available in: https://github.com/harrishyesuraj/Hand-Gesture-Detection-Machine-Learning/blob/main/hand-gesture-ml-project/image_based_gesture_recognition/Screenshot%202025-12-16%20182818.png
+
